@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color:lavender;
+  color:black;
+}
+
+
+.Appp {
+  background-color: white;
+  border-radius: 2px;
+}
+
+
+.addButton {
+  border-radius: 50px;
+  color:black;
+  font: 100;
+  border-color: aqua;
+}
